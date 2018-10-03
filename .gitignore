@@ -1,0 +1,76 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+*.stackdump
+
+# Unity3D generated file on Crash Reports
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+Thumbs.db.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+.vs/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.ide
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+###
+# Excluded Assets
+###
+Assets/layer_4_sky.fbx.meta
+Assets/layer_4_sky.fbx
+Assets/layer_3_fundinho.fbx.meta
+Assets/layer_3_fundinho.fbx
+Assets/layer_2_casinhas_chao.fbx.meta
+Assets/layer_2_casinhas_chao.fbx
+Assets/layer_1_plantinhas.fbx.meta
+Assets/layer_1_plantinhas.fbx
+Assets/layer_1_i.fbx.meta
+Assets/layer_1_i.fbx
+Assets/layer_1_h.fbx.meta
+Assets/layer_1_h.fbx
+Assets/layer_1_g.fbx.meta
+Assets/layer_1_g.fbx
+Assets/layer_1_f.fbx.meta
+Assets/layer_1_f.fbx
+Assets/layer_1_e.fbx.meta
+Assets/layer_1_e.fbx
+Assets/layer_1_d.fbx.meta
+Assets/layer_1_d.fbx
+Assets/layer_1_c.fbx.meta
+Assets/layer_1_c.fbx
+Assets/layer_1_b.fbx.meta
+Assets/layer_1_b.fbx
+Assets/layer_1_a.fbx.meta
+Assets/layer_1_a.fbx
